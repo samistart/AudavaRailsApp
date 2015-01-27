@@ -10,4 +10,7 @@ Dynamic resizing is done with Bootstrap.
 
 Source code is not available for this app due to confidentiality reasons.
 
+The application is hosted with Heroku. Database is with Postgress and file storage is on Amazon S3.
+
 Website: audava.herokuapp.com
+
